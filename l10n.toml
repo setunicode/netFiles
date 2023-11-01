@@ -1,0 +1,8 @@
+basepath = "."
+
+[env]
+    l = "{l10n_base}/public/locales/{locale}/"
+
+[[paths]]
+    reference = "public/locales/en-US/**"
+    l10n = "{l}**"

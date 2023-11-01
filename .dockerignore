@@ -1,0 +1,6 @@
+.nyc_output
+.vscode
+.DS_Store
+coverage
+firefox
+node_modules

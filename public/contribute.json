@@ -1,0 +1,22 @@
+{
+  "name": "firefox-send",
+  "description": "File Sharing Experiment",
+  "repository": {
+    "url": "https://github.com/send/send/",
+    "license": "MPL-2.0"
+  },
+  "participate": {
+    "home": "https://github.com/send/send/blob/master/README.md",
+    "docs": "https://github.com/send/send/blob/master/README.md"
+  },
+  "bugs": {
+    "list": "https://gitlab.com/send/send/issues",
+    "report": "https://gitlab.com/send/send/issues/new"
+  },
+  "keywords": [
+    "JavaScript",
+    "jQuery",
+    "Node",
+    "Redis"
+  ]
+}
